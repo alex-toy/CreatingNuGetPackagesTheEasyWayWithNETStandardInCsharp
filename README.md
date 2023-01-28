@@ -54,3 +54,14 @@ And you can use it as well in **Visual studio** :
 ### Create Repo
 
 <img src="/pictures/repo.png" title="repo"  width="800">
+
+### Create Classic Editor Pipeline
+
+<img src="/pictures/pipeline.png" title="pipeline"  width="800">
+<img src="/pictures/pipeline2.png" title="pipeline"  width="800">
+<img src="/pictures/pipeline3.png" title="pipeline"  width="800">
+<img src="/pictures/pipeline4.png" title="pipeline"  width="800">
+<img src="/pictures/pipeline5.png" title="pipeline"  width="800">
+<img src="/pictures/pipeline6.png" title="pipeline"  width="800">
+<img src="/pictures/pipeline7.png" title="pipeline"  width="800">
+<img src="/pictures/pipeline8.png" title="pipeline"  width="400">
