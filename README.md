@@ -47,3 +47,10 @@ You should now see the created package in **Azure devops** :
 And you can use it as well in **Visual studio** :
 
 <img src="/pictures/created_package2.png" title="created package"  width="800">
+
+
+## Devops Repository Setup
+
+### Create Repo
+
+<img src="/pictures/repo.png" title="repo"  width="800">
