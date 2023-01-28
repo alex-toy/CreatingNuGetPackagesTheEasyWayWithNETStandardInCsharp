@@ -1,11 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "AlexeiHelperLibrary/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/AlexeiHelperLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/AlexeiHelperLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AlexeiHelperLibrary/1.0.1": {
+      "sha512": "E7gIPSrZIyeE78iuBpGKU/HYiQnbWQhacHpiig/SkZ8yKu24FHcpvk9smDNJVhOocZjzvbrVezEy/drL2TiV2A==",
+      "type": "package",
+      "path": "alexeihelperlibrary/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        "alexeihelperlibrary.1.0.1.nupkg.sha512",
+        "alexeihelperlibrary.nuspec",
+        "lib/net5.0/AlexeiHelperLibrary.dll",
+        "readme.txt"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "AlexeiHelperLibrary >= 1.0.1"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\alexe\\.nuget\\packages\\": {}
@@ -13,11 +38,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\HelperLibrary\\HelperLibrary.csproj",
-      "projectName": "AlexeiHelperLibrary",
-      "projectPath": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\HelperLibrary\\HelperLibrary.csproj",
+      "projectUniqueName": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\ConsoleUI\\ConsoleUI.csproj",
+      "projectName": "ConsoleUI",
+      "projectPath": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\alexe\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\HelperLibrary\\obj\\",
+      "outputPath": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +72,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "AlexeiHelperLibrary": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

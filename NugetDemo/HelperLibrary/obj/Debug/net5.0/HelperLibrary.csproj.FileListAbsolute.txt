@@ -1,0 +1,12 @@
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\bin\Debug\net5.0\HelperLibrary.deps.json
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\bin\Debug\net5.0\HelperLibrary.dll
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\bin\Debug\net5.0\HelperLibrary.pdb
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\obj\Debug\net5.0\HelperLibrary.csproj.AssemblyReference.cache
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\obj\Debug\net5.0\HelperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\obj\Debug\net5.0\HelperLibrary.AssemblyInfoInputs.cache
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\obj\Debug\net5.0\HelperLibrary.AssemblyInfo.cs
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\obj\Debug\net5.0\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\obj\Debug\net5.0\HelperLibrary.dll
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\obj\Debug\net5.0\refint\HelperLibrary.dll
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\obj\Debug\net5.0\HelperLibrary.pdb
+C:\source\CSsharpPackages\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\NugetDemo\HelperLibrary\obj\Debug\net5.0\ref\HelperLibrary.dll

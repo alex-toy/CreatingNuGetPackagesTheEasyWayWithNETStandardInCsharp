@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\HelperLibrary\\HelperLibrary.csproj": {}
+    "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\AlexeiHelperLibrary\\AlexeiHelperLibrary.csproj": {}
   },
   "projects": {
-    "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\HelperLibrary\\HelperLibrary.csproj": {
-      "version": "1.0.0",
+    "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\AlexeiHelperLibrary\\AlexeiHelperLibrary.csproj": {
+      "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\HelperLibrary\\HelperLibrary.csproj",
+        "projectUniqueName": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\AlexeiHelperLibrary\\AlexeiHelperLibrary.csproj",
         "projectName": "AlexeiHelperLibrary",
-        "projectPath": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\HelperLibrary\\HelperLibrary.csproj",
+        "projectPath": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\AlexeiHelperLibrary\\AlexeiHelperLibrary.csproj",
         "packagesPath": "C:\\Users\\alexe\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\HelperLibrary\\obj\\",
+        "outputPath": "C:\\source\\CSsharpPackages\\CreatingNuGetPackagesTheEasyWayWithNETStandardInCsharp\\NugetDemo\\AlexeiHelperLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexe\\AppData\\Roaming\\NuGet\\NuGet.Config",

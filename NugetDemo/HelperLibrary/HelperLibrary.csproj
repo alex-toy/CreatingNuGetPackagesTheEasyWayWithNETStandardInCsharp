@@ -3,6 +3,11 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>AlexeiLib</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Copyright>MIT</Copyright>
+    <PackageReleaseNotes>this is the initial release</PackageReleaseNotes>
+    <RepositoryType>git</RepositoryType>
+    <PackageId>AlexeiHelperLibrary</PackageId>
   </PropertyGroup>
 
 </Project>
