@@ -65,3 +65,8 @@ And you can use it as well in **Visual studio** :
 <img src="/pictures/pipeline6.png" title="pipeline"  width="800">
 <img src="/pictures/pipeline7.png" title="pipeline"  width="800">
 <img src="/pictures/pipeline8.png" title="pipeline"  width="400">
+
+### Release Pipeline
+
+<img src="/pictures/release.png" title="release"  width="800">
+<img src="/pictures/release2.png" title="release"  width="800">
