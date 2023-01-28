@@ -12,6 +12,9 @@ namespace ConsoleUI
 
             double sub = Calculator.Substract(9, 7);
             Console.WriteLine(sub);
+
+            double mult = Calculator.Multiply(9, 7);
+            Console.WriteLine(mult);
         }
     }
 }

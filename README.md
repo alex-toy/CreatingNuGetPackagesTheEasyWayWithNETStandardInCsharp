@@ -70,3 +70,6 @@ And you can use it as well in **Visual studio** :
 
 <img src="/pictures/release.png" title="release"  width="800">
 <img src="/pictures/release2.png" title="release"  width="800">
+<img src="/pictures/release_after_push.png" title="release after push"  width="800">
+<img src="/pictures/release_after_push2.png" title="release after push"  width="800">
+
